@@ -32,3 +32,7 @@ github.com/dlexd
 ## Tests
 
 In order to run the tests with this program, install jest and run npm test.
+
+## Link to video
+
+https://drive.google.com/file/d/1V5EQIwmErpg3v-mFYbw_apFFxdG4Erkx/view
